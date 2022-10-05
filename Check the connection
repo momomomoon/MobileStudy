@@ -1,5 +1,0 @@
-int main(){
-  printf("Check the connection\n");
-  
-  return 0;
-}
